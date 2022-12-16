@@ -1,4 +1,4 @@
-====Projeto SAM - Robótica Assistiva====
+====Projeto SAM - Robótica Assistiva====/n
 Coordenador: Prof. Arquimedes Paschoal
 
 Repositório privado para organização do código produzido durante o período de imersão
