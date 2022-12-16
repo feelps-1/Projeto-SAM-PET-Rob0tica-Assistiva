@@ -1,4 +1,4 @@
-![Logo do Instituto Federal de Pernambuco a direita de um par de mãos robóticas que seguram um par de mãos humanas e a direita dele o logo do Instituto Internacional Despertando Vocações.](https://pasteboard.co/cd1XQOzm3KuZ.png)
+![Design sem nome (5)](https://user-images.githubusercontent.com/98993176/208114462-ee334d54-7c80-4e1e-a64a-2015600da6b6.png)
 
 <h1 align="center">====Projeto SAM - Robótica Assistiva====</h1>
 
