@@ -1,4 +1,4 @@
-<h1 align="center">====Projeto SAM - Robótica Assistiva====</h1>
+<h1 align="center">Projeto SAM - Robótica Assistiva</h1>
 
 ![Rep ProjSam](https://user-images.githubusercontent.com/98993176/208114809-29585150-90c8-4793-8dc1-b33bf693df8f.png)
 
@@ -9,30 +9,21 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#projeto-sam---robótica-assistiva)
+* [Home](#projeto-sam---robótica-assistiva)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
 
-# descrição-do-projeto
+# Descrição do projeto
 
-Repositório privado para organização do código produzido durante o período de imersão
+<p align='justify'>Estamos desenvolvendo uma luva robótica para reabilitação de uma pessoa com deficiência, utilizando de uma luva que simula tendões controladas por uma plataforma com microcontrolador, porém com o diferencial da luva tendo uma parte lúdica, já que ela vai se destinar para uma criança e um aplicativo mobile, primeiramente desenvolvido para Android.</p>
 
-# status-do-Projeto
+# Tecnologias utilizadas
 
-# tecnologias-utilizadas
-
-# pessoas-envolvidas
+# Pessoas contribuidoras
 
 Coordenador: Prof. Arquimedes Paschoal
 
-# conclusão
 
