@@ -1,4 +1,5 @@
-![Design sem nome (5)](https://user-images.githubusercontent.com/98993176/208114462-ee334d54-7c80-4e1e-a64a-2015600da6b6.png)
+![Rep ProjSam](https://user-images.githubusercontent.com/98993176/208114809-29585150-90c8-4793-8dc1-b33bf693df8f.png)
+
 
 <h1 align="center">====Projeto SAM - Robótica Assistiva====</h1>
 
