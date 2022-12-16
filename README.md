@@ -1,6 +1,8 @@
 <h1 align="center">Projeto SAM - Robótica Assistiva</h1>
 
-![image](https://user-images.githubusercontent.com/98993176/208185821-1b0bb8cc-9000-4203-9493-d2677105fa07.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/98993176/208185821-1b0bb8cc-9000-4203-9493-d2677105fa07.png"/>
+</p>
 
 # Badges
 <p align="center">
